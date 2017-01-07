@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25003" started-at="2017-01-07T16:24:09Z" finished-at="2017-01-07T16:24:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25003" started-at="2017-01-07T16:24:09Z" finished-at="2017-01-07T16:24:34Z">
+      <class name="com.trytech.tasks.automation.tests.Runner">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="setup" is-config="true" duration-ms="65224" started-at="2017-01-07T16:23:04Z" finished-at="2017-01-07T16:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="peformSocialMediaClicks()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="peformSocialMediaClicks" duration-ms="5827" started-at="2017-01-07T16:24:09Z" finished-at="2017-01-07T16:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformSocialMediaClicks -->
+        <test-method status="PASS" signature="peformYoutubeLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="peformYoutubeLinksClick" duration-ms="5391" started-at="2017-01-07T16:24:15Z" finished-at="2017-01-07T16:24:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformYoutubeLinksClick -->
+        <test-method status="PASS" signature="peformBlogLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="peformBlogLinksClick" duration-ms="8322" started-at="2017-01-07T16:24:21Z" finished-at="2017-01-07T16:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformBlogLinksClick -->
+        <test-method status="PASS" signature="peformWebLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="peformWebLinksClick" duration-ms="5380" started-at="2017-01-07T16:24:29Z" finished-at="2017-01-07T16:24:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peformWebLinksClick -->
+        <test-method status="FAIL" signature="teardown()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@61832929]" name="teardown" is-config="true" duration-ms="0" started-at="2017-01-07T16:24:35Z" finished-at="2017-01-07T16:24:35Z">
+          <exception class="java.lang.RuntimeException">
+            <message>
+              <![CDATA[javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c8sm38833671oia.14 - gsmtp
+]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.RuntimeException: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c8sm38833671oia.14 - gsmtp
+
+	at com.trytech.tasks.automation.utils.CommonUtils.sendEmail(CommonUtils.java:146)
+	at com.trytech.tasks.automation.tests.Runner.teardown(Runner.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:515)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:217)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:144)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:357)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+Caused by: javax.mail.AuthenticationFailedException: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c8sm38833671oia.14 - gsmtp
+
+	at com.sun.mail.smtp.SMTPTransport$Authenticator.authenticate(SMTPTransport.java:826)
+	at com.sun.mail.smtp.SMTPTransport.authenticate(SMTPTransport.java:761)
+	at com.sun.mail.smtp.SMTPTransport.protocolConnect(SMTPTransport.java:685)
+	at javax.mail.Service.connect(Service.java:367)
+	at javax.mail.Service.connect(Service.java:226)
+	at javax.mail.Service.connect(Service.java:175)
+	at javax.mail.Transport.send0(Transport.java:253)
+	at javax.mail.Transport.send(Transport.java:124)
+	at com.trytech.tasks.automation.utils.CommonUtils.sendEmail(CommonUtils.java:141)
+	... 20 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.RuntimeException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.trytech.tasks.automation.tests.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

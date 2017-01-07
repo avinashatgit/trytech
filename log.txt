@@ -1,0 +1,18 @@
+[TestNG] Running:
+  C:\Automation\trytech\trytech\testng.xml
+
+Sat Jan 07 15:44:59 UTC 2017 :: Perform social media clicks
+there is no link to click
+Sat Jan 07 15:45:04 UTC 2017 :: Perform youtube clicks
+there is no link to click
+Sat Jan 07 15:45:10 UTC 2017 :: Perform blog clicks
+there is no link to click
+Sat Jan 07 15:45:15 UTC 2017 :: Perform web clicks
+there is no link to click
+
+===============================================
+Suite
+Total tests run: 4, Failures: 0, Skips: 0
+Configuration Failures: 1, Skips: 0
+===============================================
+

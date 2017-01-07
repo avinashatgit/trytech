@@ -1,0 +1,14 @@
+url=http://www.trytech.in/index.aspx
+userid=38776494
+password=9910140802
+SecondsToWaitBeforeNextClick=5
+socialMediaTasks=https://www.trytech.in/user/My-Task.aspx
+youTubeTasks=https://www.trytech.in/user/youtube_task.aspx
+blogTasks=https://www.trytech.in/user/blog-task.aspx
+webTasks=https://www.trytech.in/user/tryfa-task.aspx
+smsTasks=https://www.trytech.in/user/sms-task.aspx
+mailTasks=https://www.trytech.in/user/Mail-task.aspx
+tasksParent=https://www.trytech.in/user/Task-Parents.aspx
+sendEmail=Y
+gmailUserID=vermavnavinash859@gmail.com
+gmailPassword=infy@123
