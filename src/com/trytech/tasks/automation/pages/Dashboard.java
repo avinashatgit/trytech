@@ -18,15 +18,19 @@ public class Dashboard extends BasePage
 	
 	Dashboard(){
 		PageFactory.initElements(driver, this);
+		System.out.println(" current url is " + driver.getCurrentUrl());
 	}
 	public Tasks clickTask() {
 		
 		//see if there is any pop  if yes, close this
 		WebElement popupClose = (new WebDriverWait(driver, 15))
-				   .until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@class='close']")));
+				   .until(ExpectedConditions.elementToBeClickable(By.cssSelector(".close")));
+				   
+				   //By.xpath("//button[@class='close']"
 		if(null!=popupClose)
 		{
 			popupClose.click();
+			System.out.println(" popup closed click " );
 		}
 		try {
 			Thread.sleep(2000);
@@ -35,6 +39,7 @@ public class Dashboard extends BasePage
 			e.printStackTrace();
 		}
 		tasks.click();
+		System.out.println(" tasks link click " );
 		
 		return new Tasks();
 		

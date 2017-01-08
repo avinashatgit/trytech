@@ -47,8 +47,11 @@ public class Tasks extends BasePage {
 
 	public void clickSocialMediaLinks() {
 		driver.navigate().to(ConfigProperties.getProperty("socialMediaTasks"));
+		
 		System.out.println(new java.util.Date().toString()
 				+ " :: Perform social media clicks");
+		System.out.println("Current URL : SOCIAL  " + driver.getTitle() );
+		
 		performClicks();
 	}
 

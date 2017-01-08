@@ -13,8 +13,7 @@ public class BasePage {
 
 	
 	void initBrowser(){
-		System.setProperty("webdriver.chrome.driver",
-				"drivers/chromedriver.exe");
+		
 		
 		driver = DriverFactory.getInstance().getDriver();
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);

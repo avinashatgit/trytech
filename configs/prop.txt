@@ -12,3 +12,4 @@ tasksParent=https://www.trytech.in/user/Task-Parents.aspx
 sendEmail=Y
 gmailUserID=vermaavinash859@gmail.com
 gmailPassword=infy@123
+browser=phantomjs

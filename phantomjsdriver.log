@@ -1,0 +1,29 @@
+[INFO  - 2017-01-08T16:31:10.488Z] GhostDriver - Main - running on port 30976
+[INFO  - 2017-01-08T16:31:11.824Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-01-08T16:31:11.824Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.customHeaders:  - {}
+[INFO  - 2017-01-08T16:31:11.824Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-01-08T16:31:11.824Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ddceb480-d5bf-11e6-9bd1-0dcf671723d3
+[ERROR - 2017-01-08T16:31:35.158Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#Slider").owlCarousel')
+[ERROR - 2017-01-08T16:31:35.158Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - stack:
+  (anonymous function) (https://www.trytech.in/js/main.js:2)
+  fire (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3119)
+  fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3231)
+  ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3443)
+  completed (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3474)
+[ERROR - 2017-01-08T16:31:35.593Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - msg: Google Maps API error: MissingKeyMapError https://developers.google.com/maps/documentation/javascript/error-messages#missing-key-map-error
+[ERROR - 2017-01-08T16:31:35.593Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - stack:
+  kb (https://maps.google.com/maps/api/js?sensor=true:34)
+[ERROR - 2017-01-08T16:31:48.428Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - msg: Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher
+[ERROR - 2017-01-08T16:31:48.428Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - stack:
+  (anonymous function) (https://www.trytech.in/user/js/bootstrap.js:15)
+[ERROR - 2017-01-08T16:31:59.132Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - msg: Error: Bootstrap's JavaScript requires jQuery version 1.9.1 or higher
+[ERROR - 2017-01-08T16:31:59.132Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - stack:
+  (anonymous function) (https://www.trytech.in/user/js/bootstrap.js:15)
+[ERROR - 2017-01-08T16:32:05.362Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - msg: TypeError: undefined is not a constructor (evaluating '$("#Slider").owlCarousel')
+[ERROR - 2017-01-08T16:32:05.362Z] Session [ddceb480-d5bf-11e6-9bd1-0dcf671723d3] - page.onError - stack:
+  (anonymous function) (https://www.trytech.in/js/main.js:2)
+  fire (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3119)
+  fireWith (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3231)
+  ready (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3443)
+  completed (https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js:3474)
+[INFO  - 2017-01-08T16:32:05.676Z] ShutdownReqHand - _handle - About to shutdown
