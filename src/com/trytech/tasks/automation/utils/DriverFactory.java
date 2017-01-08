@@ -27,25 +27,32 @@ public class DriverFactory {
 	{
 		@Override
 		protected WebDriver initialValue() {
-			if (ConfigProperties.getProperty("browser").equalsIgnoreCase(
-					"chrome")) {
-				System.setProperty("webdriver.chrome.driver",
-						"drivers/chromedriver.exe");
+			if (ConfigProperties.getProperty("browser").equalsIgnoreCase("chrome")) {
+
+				if (OSValidator.isWindows())
+					System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
+				else
+					System.setProperty("webdriver.chrome.driver", "drivers/chromedriver_linux");
 
 				return new ChromeDriver(); // can be replaced with other browser
 											// drivers
-			} else if (ConfigProperties.getProperty("browser")
-					.equalsIgnoreCase("firefox")) {
-				System.setProperty("webdriver.gecko.driver",
-						"drivers/geckodriver_32bit.exe");
+			} else if (ConfigProperties.getProperty("browser").equalsIgnoreCase("firefox")) {
+				if (OSValidator.isWindows())
+					System.setProperty("webdriver.gecko.driver", "drivers/geckodriver_32bit.exe");
+				else
+					System.setProperty("webdriver.gecko.driver", "drivers/geckodriver_linux");
 				return new FirefoxDriver();
-			}  else if (ConfigProperties.getProperty("browser")
-					.equalsIgnoreCase("phantomjs")) {
-				
-				 File file = new File("drivers/phantomjs.exe");
-			        System.setProperty("phantomjs.binary.path", file.getAbsolutePath());
-			        return new PhantomJSDriver();
-				
+			} else if (ConfigProperties.getProperty("browser").equalsIgnoreCase("phantomjs")) {
+				File file;
+				if (OSValidator.isWindows())
+					file = new File("drivers/phantomjs.exe");
+				else
+					file = new File("drivers/phantomjs_linux");
+
+				System.setProperty("phantomjs.binary.path", file.getAbsolutePath());
+
+				return new PhantomJSDriver();
+
 			} else {
 				System.out.println("set browser in the config file");
 				return null;
