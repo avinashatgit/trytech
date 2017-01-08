@@ -113,7 +113,7 @@ public class CommonUtils {
 
 				message.setFrom(new InternetAddress("verma9@gmail.com"));
 				message.setRecipients(Message.RecipientType.TO,
-						InternetAddress.parse("vermaavinash859@gmail.com"));
+						InternetAddress.parse("vermaavinash859@gmail.com,amal.pushp2002@gmail.com"));
 				message.setSubject("Trytech Automation");
 				// Create the message part
 				BodyPart messageBodyPart = new MimeBodyPart();

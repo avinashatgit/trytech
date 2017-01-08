@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="2" total="6" passed="4">
+<testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="21956" started-at="2017-01-08T16:31:42Z" finished-at="2017-01-08T16:32:04Z">
+  <suite name="Suite" duration-ms="1105992" started-at="2017-01-08T18:50:12Z" finished-at="2017-01-08T19:08:38Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="21956" started-at="2017-01-08T16:31:42Z" finished-at="2017-01-08T16:32:04Z">
+    <test name="Test" duration-ms="1105992" started-at="2017-01-08T18:50:12Z" finished-at="2017-01-08T19:08:38Z">
       <class name="com.trytech.tasks.automation.tests.Runner">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="setup" is-config="true" duration-ms="114341" started-at="2017-01-08T16:29:47Z" finished-at="2017-01-08T16:31:42Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="setup" is-config="true" duration-ms="19329" started-at="2017-01-08T18:49:53Z" finished-at="2017-01-08T18:50:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="peformSocialMediaClicks()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="peformSocialMediaClicks" duration-ms="5398" started-at="2017-01-08T16:31:42Z" finished-at="2017-01-08T16:31:47Z">
+        <test-method status="PASS" signature="peformSocialMediaClicks()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="peformSocialMediaClicks" duration-ms="5428" started-at="2017-01-08T18:50:12Z" finished-at="2017-01-08T18:50:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformSocialMediaClicks -->
-        <test-method status="PASS" signature="peformYoutubeLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="peformYoutubeLinksClick" duration-ms="5612" started-at="2017-01-08T16:31:47Z" finished-at="2017-01-08T16:31:53Z">
+        <test-method status="PASS" signature="peformYoutubeLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="peformYoutubeLinksClick" duration-ms="5328" started-at="2017-01-08T18:50:18Z" finished-at="2017-01-08T18:50:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformYoutubeLinksClick -->
-        <test-method status="PASS" signature="peformBlogLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="peformBlogLinksClick" duration-ms="5398" started-at="2017-01-08T16:31:53Z" finished-at="2017-01-08T16:31:58Z">
+        <test-method status="PASS" signature="peformBlogLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="peformBlogLinksClick" duration-ms="193250" started-at="2017-01-08T18:50:23Z" finished-at="2017-01-08T18:53:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformBlogLinksClick -->
-        <test-method status="PASS" signature="peformWebLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="peformWebLinksClick" duration-ms="5303" started-at="2017-01-08T16:31:58Z" finished-at="2017-01-08T16:32:04Z">
+        <test-method status="PASS" signature="peformWebLinksClick()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="peformWebLinksClick" duration-ms="901975" started-at="2017-01-08T18:53:36Z" finished-at="2017-01-08T19:08:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- peformWebLinksClick -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@64cd705f]" name="teardown" is-config="true" duration-ms="6031" started-at="2017-01-08T16:32:04Z" finished-at="2017-01-08T16:32:10Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.trytech.tasks.automation.tests.Runner@282ba1e]" name="teardown" is-config="true" duration-ms="10989" started-at="2017-01-08T19:08:38Z" finished-at="2017-01-08T19:08:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

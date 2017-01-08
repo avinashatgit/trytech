@@ -1,14 +1,665 @@
 [TestNG] Running:
   C:\Automation\trytech\trytech\testng.xml
 
-Sat Jan 07 18:44:00 UTC 2017 :: Perform social media clicks
+ current url is https://www.trytech.in/user/home.aspx
+ popup closed click 
+ tasks link click 
+Sun Jan 08 18:50:12 UTC 2017 :: Perform social media clicks
+Current URL : SOCIAL  Trytech
 there is no link to click
-Sat Jan 07 18:44:07 UTC 2017 :: Perform youtube clicks
+Sun Jan 08 18:50:18 UTC 2017 :: Perform youtube clicks
 there is no link to click
-Sat Jan 07 18:44:14 UTC 2017 :: Perform blog clicks
-there is no link to click
-Sat Jan 07 18:44:20 UTC 2017 :: Perform web clicks
-there is no link to click
+Sun Jan 08 18:50:23 UTC 2017 :: Perform blog clicks
+There are 37 links to click
+Sun Jan 08 18:50:23 UTC 2017 :: GOING TO STOP INTERNET....
+Sun Jan 08 18:50:24 UTC 2017 :: INTERNET  DISCONNECTED
+Sun Jan 08 18:50:25 UTC 2017 :: GOING TO START INTERNET....
+Sun Jan 08 18:50:30 UTC 2017 :: INTERNET  CONNECTED
+ Opening 1 of 37
+Sun Jan 08 18:50:30 UTC 2017 :: Opening  javascript:myFunction('http://www.newfashiondress.in/your-budget-dressing-tips/','238240'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 2 of 37
+Sun Jan 08 18:50:35 UTC 2017 :: Opening  javascript:myFunction('http://www.onlinefashionstore.co.in','238239'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 3 of 37
+Sun Jan 08 18:50:40 UTC 2017 :: Opening  javascript:myFunction('http://www.onlineclothingsites.in','238238'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 4 of 37
+Sun Jan 08 18:50:45 UTC 2017 :: Opening  javascript:myFunction('http://www.latestfashionforwomen.in/category/blog/','238237'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 5 of 37
+Sun Jan 08 18:50:50 UTC 2017 :: Opening  javascript:myFunction('http://www.boyfriendjeans.in/category/blog/','238236'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 6 of 37
+Sun Jan 08 18:50:55 UTC 2017 :: Opening  javascript:myFunction('http://www.palazzopantsonline.in/category/blog/','238235'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 7 of 37
+Sun Jan 08 18:51:00 UTC 2017 :: Opening  javascript:myFunction('http://www.latestfashiontrend.in/category/blog/','238234'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 8 of 37
+Sun Jan 08 18:51:05 UTC 2017 :: Opening  javascript:myFunction('http://www.denimskirtonline.in/category/blog/','238233'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 9 of 37
+Sun Jan 08 18:51:10 UTC 2017 :: Opening  javascript:myFunction('http://www.newtopscollection.in/category/blog/','238232'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 10 of 37
+Sun Jan 08 18:51:15 UTC 2017 :: Opening  javascript:myFunction('http://www.womansfashiontrends.in/latest-trendy-ideas-for-fashion-tops/','238231'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 11 of 37
+Sun Jan 08 18:51:20 UTC 2017 :: Opening  javascript:myFunction('http://www.designerdressesforgirls.in    ','238230'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 12 of 37
+Sun Jan 08 18:51:25 UTC 2017 :: Opening  javascript:myFunction('http://www.onlineclothingstores.co.in/category/blog/','238229'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 13 of 37
+Sun Jan 08 18:51:30 UTC 2017 :: Opening  javascript:myFunction('http://www.cocktaildress.co.in/choosing-the-perfect-cocktail-dress/','238228'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 14 of 37
+Sun Jan 08 18:51:35 UTC 2017 :: Opening  javascript:myFunction('http://www.miniskirt.co.in/category/blog/','238227'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 15 of 37
+Sun Jan 08 18:51:40 UTC 2017 :: Opening  javascript:myFunction('http://www.ladiesfashionshopping.in/category/blog/','238226'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 16 of 37
+Sun Jan 08 18:51:45 UTC 2017 :: Opening  javascript:myFunction('http://www.womenfashiontrendinindia.in/no-6-packs-no-problemhigh-waist-bikinis/','238225'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 17 of 37
+Sun Jan 08 18:51:50 UTC 2017 :: Opening  javascript:myFunction('http://www.currentfashiontrends.in/category/blog/','238224'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 18 of 37
+Sun Jan 08 18:51:55 UTC 2017 :: Opening  javascript:myFunction('http://www.longdressesforwomen.in','238223'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 19 of 37
+Sun Jan 08 18:52:00 UTC 2017 :: Opening  javascript:myFunction('http://www.maxitops.in/category/blog/','238222'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 20 of 37
+Sun Jan 08 18:52:06 UTC 2017 :: Opening  javascript:myFunction('http://www.womensclothingonline.in','238221'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 21 of 37
+Sun Jan 08 18:52:11 UTC 2017 :: Opening  javascript:myFunction('http://www.womenonlineshopping.in/donts-of-wearing-a-mini-dress/','238220'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 22 of 37
+Sun Jan 08 18:52:16 UTC 2017 :: Opening  javascript:myFunction('http://www.croptop.biz/category/blog/','238219'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 23 of 37
+Sun Jan 08 18:52:21 UTC 2017 :: Opening  javascript:myFunction('http://www.hotdresses.in/bring-back-the-90s-style/','238218'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 24 of 37
+Sun Jan 08 18:52:26 UTC 2017 :: Opening  javascript:myFunction('http://www.ladiestanktops.in','238217'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 25 of 37
+Sun Jan 08 18:52:31 UTC 2017 :: Opening  javascript:myFunction('http://www.onlineclothingstores.in/cool-and-casual-hot-pants/','238216'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 26 of 37
+Sun Jan 08 18:52:36 UTC 2017 :: Opening  javascript:myFunction('http://www.newfashiontrendsforgirls.in/fusion-dressing/','238215'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 27 of 37
+Sun Jan 08 18:52:41 UTC 2017 :: Opening  javascript:myFunction('http://www.lateststylesforwomen.in        ','238214'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 28 of 37
+Sun Jan 08 18:52:46 UTC 2017 :: Opening  javascript:myFunction('http://www.ladiesfashiondresses.in/be-street-smart/','238213'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 29 of 37
+Sun Jan 08 18:52:51 UTC 2017 :: Opening  javascript:myFunction('http://www.kneelengthdresses.in','238212'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 30 of 37
+Sun Jan 08 18:52:56 UTC 2017 :: Opening  javascript:myFunction('http://www.onlineclothingstores.co.in/maxis-are-a-fashion-staple/','238211'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 31 of 37
+Sun Jan 08 18:53:01 UTC 2017 :: Opening  javascript:myFunction('http://www.clothesshoppingonline.co.in/make-a-style-statement-with-skater-dresses/','238210'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 32 of 37
+Sun Jan 08 18:53:06 UTC 2017 :: Opening  javascript:myFunction('http://www.printedcottonpalazzo.in/add-dimension-to-your-office-wear/','238209'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 33 of 37
+Sun Jan 08 18:53:11 UTC 2017 :: Opening  javascript:myFunction('http://www.womenfashiontrendinindia.in    ','238208'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 34 of 37
+Sun Jan 08 18:53:16 UTC 2017 :: Opening  javascript:myFunction('http://www.jumpsuitsforwomen.in/summer-essentials-for-your-wardrobe/','238207'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 35 of 37
+Sun Jan 08 18:53:21 UTC 2017 :: Opening  javascript:myFunction('http://www.onlinefashionstores.in/fashion-of-black/','238206'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 36 of 37
+Sun Jan 08 18:53:26 UTC 2017 :: Opening  javascript:myFunction('http://www.onlinefashionstore.co.in/category/blog/','238205'); : Trytech
+ waiting for 5 seconds before next link click
+ Opening 37 of 37
+Sun Jan 08 18:53:31 UTC 2017 :: Opening  javascript:myFunction('http://www.hotpants.co.in/category/blog/','238204'); : Trytech
+ waiting for 5 seconds before next link click
+Sun Jan 08 18:53:37 UTC 2017 :: Perform web clicks
+There are 176 links to click
+Sun Jan 08 18:53:37 UTC 2017 :: GOING TO STOP INTERNET....
+Sun Jan 08 18:53:37 UTC 2017 :: INTERNET  DISCONNECTED
+Sun Jan 08 18:53:41 UTC 2017 :: GOING TO START INTERNET....
+Sun Jan 08 18:53:46 UTC 2017 :: INTERNET  CONNECTED
+ Opening 1 of 176
+Sun Jan 08 18:53:46 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/highrise-skinny-pant','102926') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 2 of 176
+Sun Jan 08 18:53:55 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/date-night-top','102925') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 3 of 176
+Sun Jan 08 18:54:00 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/chamby-jumpsuit','102924') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 4 of 176
+Sun Jan 08 18:54:05 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/radical-chic/','102923') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 5 of 176
+Sun Jan 08 18:54:10 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/red-party-clutch','102922') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 6 of 176
+Sun Jan 08 18:54:15 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/wild-streak-jumpsuit','102921') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 7 of 176
+Sun Jan 08 18:54:20 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/pleat-treat-dress','102920') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 8 of 176
+Sun Jan 08 18:54:25 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-pintuck-black-pant','102919') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 9 of 176
+Sun Jan 08 18:54:30 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/light-pink-clutch','102918') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 10 of 176
+Sun Jan 08 18:54:35 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/salsa-top','102917') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 11 of 176
+Sun Jan 08 18:54:40 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/shades-of-grey','102916') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 12 of 176
+Sun Jan 08 18:54:45 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/printed-ciggerate-pant','102915') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 13 of 176
+Sun Jan 08 18:54:50 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/bow-back-dress','102914') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 14 of 176
+Sun Jan 08 18:54:55 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/barbie-dress','102913') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 15 of 176
+Sun Jan 08 18:55:00 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/boyfriend-top','102912') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 16 of 176
+Sun Jan 08 18:55:05 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/flouncy-green-top','102911') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 17 of 176
+Sun Jan 08 18:55:11 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/sassy-crepe-top','102910') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 18 of 176
+Sun Jan 08 18:55:16 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/rosalie-dress','102909') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 19 of 176
+Sun Jan 08 18:55:21 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cool-drool-top','102908') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 20 of 176
+Sun Jan 08 18:55:26 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lacy-reglan-top','102907') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 21 of 176
+Sun Jan 08 18:55:31 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/ruby-dress','102906') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 22 of 176
+Sun Jan 08 18:55:36 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/superstar-skirt','102905') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 23 of 176
+Sun Jan 08 18:55:41 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/patchy-crepe-jumpsuit','102904') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 24 of 176
+Sun Jan 08 18:55:46 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-pleated-smock-top','102903') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 25 of 176
+Sun Jan 08 18:55:51 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/go-wild-clutch','102902') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 26 of 176
+Sun Jan 08 18:55:56 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/jumpsuits/patchy-peach-crepe-jumpsuit.html','102901') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 27 of 176
+Sun Jan 08 18:56:01 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/gorgeous-bae-dungarees','102900') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 28 of 176
+Sun Jan 08 18:56:06 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/ruffled-crepe-top','102899') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 29 of 176
+Sun Jan 08 18:56:11 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/maxi-dress/','102898') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 30 of 176
+Sun Jan 08 18:56:16 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/skirts/','102897') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 31 of 176
+Sun Jan 08 18:56:21 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/adriana-dress','102896') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 32 of 176
+Sun Jan 08 18:56:26 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/princess-top','102895') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 33 of 176
+Sun Jan 08 18:56:32 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/fantastico-jumpsuit','102894') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 34 of 176
+Sun Jan 08 18:56:37 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dream-girl-skirt','102893') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 35 of 176
+Sun Jan 08 18:56:42 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/mermaid-skirt','102892') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 36 of 176
+Sun Jan 08 18:56:47 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/sublime-dress','102891') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 37 of 176
+Sun Jan 08 18:56:52 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/get-wild-skirt','102890') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 38 of 176
+Sun Jan 08 18:56:57 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hangout/','102889') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 39 of 176
+Sun Jan 08 18:57:02 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/groovy-jegging','102888') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 40 of 176
+Sun Jan 08 18:57:07 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/adore-me-dress','102887') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 41 of 176
+Sun Jan 08 18:57:12 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/allura-jumpsuit','102886') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 42 of 176
+Sun Jan 08 18:57:17 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/sheer/','102885') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 43 of 176
+Sun Jan 08 18:57:22 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/blooming-rose-top','102884') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 44 of 176
+Sun Jan 08 18:57:27 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/crepe-bow-pant','102883') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 45 of 176
+Sun Jan 08 18:57:32 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/trance-top','102882') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 46 of 176
+Sun Jan 08 18:57:37 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hail-to-the-queen-dress','102881') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 47 of 176
+Sun Jan 08 18:57:42 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/voodoo-top','102880') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 48 of 176
+Sun Jan 08 18:57:47 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cutout-chambray-dress','102879') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 49 of 176
+Sun Jan 08 18:57:52 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/satin-flap-top','102878') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 50 of 176
+Sun Jan 08 18:57:57 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/neon-pallazo','102877') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 51 of 176
+Sun Jan 08 18:58:02 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/corporate-event/','102876') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 52 of 176
+Sun Jan 08 18:58:07 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/modish-viscose-kurti','102875') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 53 of 176
+Sun Jan 08 18:58:12 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-scribble-print-kurti','102874') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 54 of 176
+Sun Jan 08 18:58:17 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/red-white/','102873') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 55 of 176
+Sun Jan 08 18:58:22 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/carry-on-dress','102872') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 56 of 176
+Sun Jan 08 18:58:27 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/shrugs/','102871') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 57 of 176
+Sun Jan 08 18:58:32 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/vintage-grace-dress','102870') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 58 of 176
+Sun Jan 08 18:58:37 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/vivacious-dress','102869') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 59 of 176
+Sun Jan 08 18:58:42 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cocktail-party/','102868') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 60 of 176
+Sun Jan 08 18:58:48 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/classic/','102867') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 61 of 176
+Sun Jan 08 18:58:53 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hot-pants/','102866') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 62 of 176
+Sun Jan 08 18:58:58 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/heart-beat-top','102865') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 63 of 176
+Sun Jan 08 18:59:03 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/mosaic-dupain-kurti','102864') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 64 of 176
+Sun Jan 08 18:59:08 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/bliss-top','102863') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 65 of 176
+Sun Jan 08 18:59:13 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/irresistible-jumpsuit','102862') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 66 of 176
+Sun Jan 08 18:59:18 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dusky-black-top','102861') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 67 of 176
+Sun Jan 08 18:59:23 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cutwork-dress','102860') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 68 of 176
+Sun Jan 08 18:59:28 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-assymetric-dupain-kurti','102859') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 69 of 176
+Sun Jan 08 18:59:33 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/rayon-tulip-kurti','102858') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 70 of 176
+Sun Jan 08 18:59:38 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/animal-print-jumpsuit','102857') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 71 of 176
+Sun Jan 08 18:59:43 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/professional/','102856') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 72 of 176
+Sun Jan 08 18:59:48 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/kiss-me-clutch','102855') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 73 of 176
+Sun Jan 08 18:59:53 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/sunshine-top','102854') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 74 of 176
+Sun Jan 08 18:59:58 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/love-me-black-clutch','102853') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 75 of 176
+Sun Jan 08 19:00:03 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/stripe-dance-top','102852') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 76 of 176
+Sun Jan 08 19:00:08 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/tops/','102851') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 77 of 176
+Sun Jan 08 19:00:13 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dresses/jumpsuits/','102850') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 78 of 176
+Sun Jan 08 19:00:18 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lemon-cool-top','102849') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 79 of 176
+Sun Jan 08 19:00:23 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dasy-jumpsuit','102848') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 80 of 176
+Sun Jan 08 19:00:28 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/marilyn-top','102847') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 81 of 176
+Sun Jan 08 19:00:33 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/mesmeric-dress','102846') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 82 of 176
+Sun Jan 08 19:00:38 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/clown-palazzo','102845') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 83 of 176
+Sun Jan 08 19:00:44 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/blossom-skirt','102844') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 84 of 176
+Sun Jan 08 19:00:49 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/stay-aware-top','102843') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 85 of 176
+Sun Jan 08 19:00:54 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/charming-shorts','102842') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 86 of 176
+Sun Jan 08 19:00:59 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/green-hand-bag','102841') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 87 of 176
+Sun Jan 08 19:01:04 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/2tone-top','102840') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 88 of 176
+Sun Jan 08 19:01:09 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hello-kitty-maxi-dress','102839') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 89 of 176
+Sun Jan 08 19:01:14 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lilly-dress','102838') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 90 of 176
+Sun Jan 08 19:01:19 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/basic-brown-pant','102837') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 91 of 176
+Sun Jan 08 19:01:24 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/say-yes-top','102836') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 92 of 176
+Sun Jan 08 19:01:29 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/darling-shorts','102835') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 93 of 176
+Sun Jan 08 19:01:34 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-black-asset-dress','102834') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 94 of 176
+Sun Jan 08 19:01:39 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/green-dream-dress','102833') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 95 of 176
+Sun Jan 08 19:01:44 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-tiefront-grey-dress','102832') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 96 of 176
+Sun Jan 08 19:01:49 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-tartan-palid-pant','102831') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 97 of 176
+Sun Jan 08 19:01:54 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/blue-butterfly-clutch','102830') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 98 of 176
+Sun Jan 08 19:01:59 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/i-did-it-again','102829') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 99 of 176
+Sun Jan 08 19:02:04 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/frills/','102828') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 100 of 176
+Sun Jan 08 19:02:09 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/2tone-peplum-top','102827') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 101 of 176
+Sun Jan 08 19:02:14 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/inesacapable-dress','102826') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 102 of 176
+Sun Jan 08 19:02:19 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/multi-check-clutch','102825') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 103 of 176
+Sun Jan 08 19:02:24 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/tango-top','102824') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 104 of 176
+Sun Jan 08 19:02:29 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cloud-dress','102823') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 105 of 176
+Sun Jan 08 19:02:34 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/jasmine-top','102822') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 106 of 176
+Sun Jan 08 19:02:39 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/exuberant-top','102821') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 107 of 176
+Sun Jan 08 19:02:44 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/atheletic-top','102820') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 108 of 176
+Sun Jan 08 19:02:49 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/sensational-top','102819') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 109 of 176
+Sun Jan 08 19:02:54 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/yellow-sequin-clutch','102818') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 110 of 176
+Sun Jan 08 19:02:59 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/crazy-night-top','102817') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 111 of 176
+Sun Jan 08 19:03:04 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/get-groovy-skirt','102816') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 112 of 176
+Sun Jan 08 19:03:09 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/stylish-weekend/','102815') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 113 of 176
+Sun Jan 08 19:03:15 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cutelicious/','102814') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 114 of 176
+Sun Jan 08 19:03:20 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/pink-net-shrug','102813') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 115 of 176
+Sun Jan 08 19:03:25 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/style-diva-skirt','102812') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 116 of 176
+Sun Jan 08 19:03:30 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lace-effect/','102811') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 117 of 176
+Sun Jan 08 19:03:35 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/less-is-more/','102810') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 118 of 176
+Sun Jan 08 19:03:40 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/ornate-dolman-top','102809') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 119 of 176
+Sun Jan 08 19:03:45 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/ethnic/','102808') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 120 of 176
+Sun Jan 08 19:03:50 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/printology/','102807') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 121 of 176
+Sun Jan 08 19:03:55 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/princess-red-sling-bag','102806') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 122 of 176
+Sun Jan 08 19:04:00 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/saviour-top','102805') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 123 of 176
+Sun Jan 08 19:04:05 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/twisty-poplin-shirt','102804') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 124 of 176
+Sun Jan 08 19:04:10 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/denim/','102803') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 125 of 176
+Sun Jan 08 19:04:15 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/frankie-top','102802') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 126 of 176
+Sun Jan 08 19:04:21 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/bottoms/','102801') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 127 of 176
+Sun Jan 08 19:04:26 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/charismatic-dress','102800') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 128 of 176
+Sun Jan 08 19:04:31 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dont-touch-me-top','102799') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 129 of 176
+Sun Jan 08 19:04:36 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/assymetrical-motiv-jumpsuit','102798') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 130 of 176
+Sun Jan 08 19:04:41 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/scalloped-halter-top','102797') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 131 of 176
+Sun Jan 08 19:04:46 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/delightful-jumpsuit','102796') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 132 of 176
+Sun Jan 08 19:04:51 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dazzling-dungaree','102795') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 133 of 176
+Sun Jan 08 19:04:56 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/birthday-girl/','102794') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 134 of 176
+Sun Jan 08 19:05:01 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/brown-butterfly-cutch','102793') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 135 of 176
+Sun Jan 08 19:05:06 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-frilly-stripe-dress','102792') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 136 of 176
+Sun Jan 08 19:05:11 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/frilly-reglan-top','102791') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 137 of 176
+Sun Jan 08 19:05:16 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lucky-charm-top','102790') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 138 of 176
+Sun Jan 08 19:05:21 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/cocktail-dress','102789') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 139 of 176
+Sun Jan 08 19:05:27 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/phoenix-dress','102788') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 140 of 176
+Sun Jan 08 19:05:32 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/buttoned-tile-print-kurti','102787') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 141 of 176
+Sun Jan 08 19:05:37 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/stupendous-jumpsuit','102786') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 142 of 176
+Sun Jan 08 19:05:42 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/splitneck-kurti','102785') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 143 of 176
+Sun Jan 08 19:05:47 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/rainbow-multicolored-clutch','102784') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 144 of 176
+Sun Jan 08 19:05:52 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/lacy-embreled-jumpsuit','102783') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 145 of 176
+Sun Jan 08 19:05:57 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hats-off-clutch','102782') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 146 of 176
+Sun Jan 08 19:06:02 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/winsome-dress','102781') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 147 of 176
+Sun Jan 08 19:06:07 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/music-sling-bag','102780') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 148 of 176
+Sun Jan 08 19:06:12 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/blue-heaven-top','102779') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 149 of 176
+Sun Jan 08 19:06:17 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/snow-white-dress','102778') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 150 of 176
+Sun Jan 08 19:06:22 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/eliza-dress','102777') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 151 of 176
+Sun Jan 08 19:06:27 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-neon-sheer-kurti','102776') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 152 of 176
+Sun Jan 08 19:06:32 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/red-wine-top','102775') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 153 of 176
+Sun Jan 08 19:06:37 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dobby-hotpant','102774') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 154 of 176
+Sun Jan 08 19:06:42 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/hot-shot-summer-coat','102773') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 155 of 176
+Sun Jan 08 19:06:47 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/dynamic-top','102772') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 156 of 176
+Sun Jan 08 19:06:52 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/black-is-back-top','102771') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 157 of 176
+Sun Jan 08 19:06:57 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/s-galaxy-top','102770') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 158 of 176
+Sun Jan 08 19:07:02 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/paradise-dress','102769') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 159 of 176
+Sun Jan 08 19:07:07 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/blue-sequin-clutch','102768') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 160 of 176
+Sun Jan 08 19:07:12 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/swag-top','102767') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 161 of 176
+Sun Jan 08 19:07:17 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/knitty-gritty/','102766') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 162 of 176
+Sun Jan 08 19:07:22 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/brown-owl-clutch','102765') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 163 of 176
+Sun Jan 08 19:07:27 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/back-to-basics/','102764') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 164 of 176
+Sun Jan 08 19:07:33 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/white-is-me-clutch','102763') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 165 of 176
+Sun Jan 08 19:07:38 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/take-me-clutch','102762') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 166 of 176
+Sun Jan 08 19:07:43 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/mysterious-girl-dress','102761') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 167 of 176
+Sun Jan 08 19:07:48 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/mod-printed-top','102760') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 168 of 176
+Sun Jan 08 19:07:53 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/spell-binding-dress','102759') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 169 of 176
+Sun Jan 08 19:07:58 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/contrapiping-pant','102758') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 170 of 176
+Sun Jan 08 19:08:03 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/tequila-top','102757') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 171 of 176
+Sun Jan 08 19:08:08 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/miley-top','102756') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 172 of 176
+Sun Jan 08 19:08:13 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/exotic-dress','102755') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 173 of 176
+Sun Jan 08 19:08:18 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/peep-hole-top','102754') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 174 of 176
+Sun Jan 08 19:08:23 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/weekday-mania/','102753') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 175 of 176
+Sun Jan 08 19:08:28 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/stripe-zone/','102752') : Trytech
+ waiting for 5 seconds before next link click
+ Opening 176 of 176
+Sun Jan 08 19:08:33 UTC 2017 :: Opening  javascript:myFunction('http://www.tryfa.com/claudia-dress','102751') : Trytech
+ waiting for 5 seconds before next link click
 Done
 
 ===============================================
