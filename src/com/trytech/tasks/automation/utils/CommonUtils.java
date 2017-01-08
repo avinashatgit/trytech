@@ -111,9 +111,9 @@ public class CommonUtils {
 
 				Message message = new MimeMessage(session);
 
-				message.setFrom(new InternetAddress("verma9@gmail.com"));
+				message.setFrom(new InternetAddress("vermaavinash859@gmail.com"));
 				message.setRecipients(Message.RecipientType.TO,
-						InternetAddress.parse("vermaavinash859@gmail.com"));
+						InternetAddress.parse("vermaavinash859@gmail.com,avi.iitr@gmail.com,amalpushp2002@gmail.com"));
 				message.setSubject("Trytech Automation");
 				// Create the message part
 				BodyPart messageBodyPart = new MimeBodyPart();
@@ -140,7 +140,7 @@ public class CommonUtils {
 
 				Transport.send(message);
 
-				System.out.println("Done");
+				System.out.println("Email sent");
 
 			} catch (MessagingException e) {
 				throw new RuntimeException(e);

@@ -10,5 +10,5 @@ smsTasks=https://www.trytech.in/user/sms-task.aspx
 mailTasks=https://www.trytech.in/user/Mail-task.aspx
 tasksParent=https://www.trytech.in/user/Task-Parents.aspx
 sendEmail=Y
-gmailUserID=vermavnavinash859@gmail.com
+gmailUserID=vermaavinash859@gmail.com
 gmailPassword=infy@123
